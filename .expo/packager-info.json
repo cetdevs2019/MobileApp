@@ -2,8 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 16622,
+  "packagerPid": 24633,
   "expoServerNgrokUrl": "https://qz-33b.anonymous.mobile-app.exp.direct",
   "packagerNgrokUrl": "https://packager.qz-33b.anonymous.mobile-app.exp.direct",
-  "ngrokPid": 16683
+  "ngrokPid": 24672,
+  "webpackServerPort": null
 }
